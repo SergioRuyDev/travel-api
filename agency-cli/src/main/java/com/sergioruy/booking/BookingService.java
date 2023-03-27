@@ -1,6 +1,5 @@
 package com.sergioruy.booking;
 
-import com.sergioruy.customer.Customer;
 import org.eclipse.microprofile.rest.client.inject.RegisterRestClient;
 
 import javax.ws.rs.Consumes;
@@ -14,5 +13,5 @@ public interface BookingService {
     @POST
     @Produces(MediaType.APPLICATION_JSON)
     @Consumes(MediaType.APPLICATION_JSON)
-    public String newBooking(Customer customer);
+    public String newBooking(Booking booking);
 }

@@ -10,7 +10,7 @@ public class Booking {
         this.customer = customer;
     }
 
-    public static Booking of(Customer customer) {
+    public static Booking of(long id, Customer customer) {
         return new Booking(customer);
     }
 

@@ -5,7 +5,6 @@ import org.eclipse.microprofile.rest.client.inject.RestClient;
 import javax.inject.Inject;
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
-import javax.ws.rs.core.Response;
 
 @Path("/customer-cli")
 public class CustomerResource {
@@ -16,9 +15,8 @@ public class CustomerResource {
 
     @GET
     @Path("newCustomer")
-    public Response newCustomer() {
+    public String newCustomer() {
         Customer customer = Customer.of(99, "Remote");
-        Response response = customerService.newCustomer(customer);
-        return Response.status(Response.Status.CREATED).entity(response).build();
+        return customerService.newCustomer(customer);
     }
 }
