@@ -1,6 +1,5 @@
 package com.sergioruy.booking;
 
-import com.sergioruy.customer.Customer;
 import com.sergioruy.customer.CustomerService;
 import org.eclipse.microprofile.rest.client.inject.RestClient;
 
@@ -25,8 +24,7 @@ public class BookingResource {
     @Produces(MediaType.APPLICATION_JSON)
     @Path("newBooking")
     public String newBooking() {
-        Customer customer = customerService.findById(2);
-        Booking booking = Booking.of(0, customer);
+        Booking booking = Booking.of(0, 2);
         return bookingService.newBooking(booking);
     }
 }

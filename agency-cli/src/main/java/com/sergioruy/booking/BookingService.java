@@ -7,7 +7,7 @@ import javax.ws.rs.POST;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
-@RegisterRestClient(baseUri = "http://localhost:8080/bookings")
+@RegisterRestClient(baseUri = "http://localhost:8182/bookings")
 public interface BookingService {
 
     @POST

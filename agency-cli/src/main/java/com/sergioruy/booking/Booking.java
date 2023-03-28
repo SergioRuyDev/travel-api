@@ -1,24 +1,36 @@
 package com.sergioruy.booking;
 
-import com.sergioruy.customer.Customer;
-
 public class Booking {
 
-    private Customer customer;
+    private long id;
+    private long idCustomer;
 
-    private Booking(Customer customer) {
-        this.customer = customer;
+    public Booking() {
     }
 
-    public static Booking of(long id, Customer customer) {
-        return new Booking(customer);
+    private Booking(long id, long idCustomer) {
+        this.id = id;
+        this.idCustomer = idCustomer;
     }
 
-    public Customer getCustomer() {
-        return customer;
+    public static Booking of(long id, long idCustomer) {
+        return new Booking(id, idCustomer);
     }
 
-    public void setCustomer(Customer customer) {
-        this.customer = customer;
+
+    public long getId() {
+        return id;
+    }
+
+    public void setId(long id) {
+        this.id = id;
+    }
+
+    public long getIdCustomer() {
+        return idCustomer;
+    }
+
+    public void setIdCustomer(long idCustomer) {
+        this.idCustomer = idCustomer;
     }
 }
