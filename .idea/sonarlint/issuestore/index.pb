@@ -61,8 +61,6 @@ b
 2agency-cli/src/main/docker/Dockerfile.native-micro,2/9/2957e3e23a601cc2715f22c54ee766e6cef08354
 l
 <agency-cli/src/main/java/com/sergioruy/GreetingResource.java,c/0/c0583883bb0b056aa10d17e3fe6b72a623c54bf5
-B
-agency-cli/pom.xml,3/b/3bd8914b1c60d5d2c5f950cb992a282bacf23cd3
 D
 agency-cli/README.md,0/7/07112af3fb5be72532d077fd79d45f20990acaa3
 m
@@ -139,10 +137,6 @@ m
 =agency-cli/src/main/java/com/sergioruy/customer/Customer.java,5/c/5cae177a639fa72e64dae964e007699885c52017
 x
 Hagency-micro-customer/src/main/java/com/sergioruy/custumer/Customer.java,e/8/e8bede5c093eeea2d4dea6aca6141cfc34efaed4
-u
-Eagency-cli/src/main/java/com/sergioruy/customer/CustomerResource.java,8/e/8ee220c9306b841f79a0ba5130a17069fddb1895
-t
-Dagency-cli/src/main/java/com/sergioruy/customer/CustomerService.java,d/f/dfb65e7317a31db71c0759b654c5f950a28d6817
 v
 Fagency-micro-booking/src/main/java/com/sergioruy/GreetingResource.java,1/b/1bda08f44f09b3d158396649c334f7de8a8e32f5
 w

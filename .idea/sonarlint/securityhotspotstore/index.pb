@@ -39,8 +39,6 @@ C
 agency-app/mvnw.cmd,3/8/385c7d8f65015fd0ed5698fdc4ec7c5f175dbb10
 l
 <agency-cli/src/main/java/com/sergioruy/GreetingResource.java,c/0/c0583883bb0b056aa10d17e3fe6b72a623c54bf5
-B
-agency-cli/pom.xml,3/b/3bd8914b1c60d5d2c5f950cb992a282bacf23cd3
 D
 agency-cli/README.md,0/7/07112af3fb5be72532d077fd79d45f20990acaa3
 C
@@ -125,12 +123,8 @@ O
 agency-micro-booking/.gitignore,b/c/bc331fdf4f1ca1fd3e6963a84866b544285ddef2
 N
 agency-micro-customer/mvnw.cmd,6/e/6ef6a891c54eb7080bf5bb63b69662b72016c703
-u
-Eagency-cli/src/main/java/com/sergioruy/customer/CustomerResource.java,8/e/8ee220c9306b841f79a0ba5130a17069fddb1895
 m
 =agency-cli/src/main/java/com/sergioruy/customer/Customer.java,5/c/5cae177a639fa72e64dae964e007699885c52017
-t
-Dagency-cli/src/main/java/com/sergioruy/customer/CustomerService.java,d/f/dfb65e7317a31db71c0759b654c5f950a28d6817
 k
 ;agency-cli/src/main/java/com/sergioruy/booking/Booking.java,b/8/b8c45ff4c35a5e4c1710e39702df72c5078d7e6c
 u
