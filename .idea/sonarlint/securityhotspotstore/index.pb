@@ -75,8 +75,6 @@ S
 #agency-micro-customer/.dockerignore,9/7/97a70a6fc3267bef40844b94023aa2df3d35441b
 O
 agency-micro-customer/README.md,7/d/7deb51d942551da863345c14fb412f967cfa8644
-M
-agency-micro-customer/pom.xml,2/9/29cc17a602b5ecf2dce49ac94c1026b39fde7715
 f
 6agency-micro-booking/src/main/docker/Dockerfile.native,7/0/702d6d221c8270f3c3d5d6ea3ba7ff7bbf137892
 \
@@ -119,8 +117,6 @@ R
 "agency-micro-booking/.dockerignore,1/4/147860b730a98fa0d060b8557a32e0358d0686f5
 N
 agency-micro-booking/README.md,c/9/c9559ebf177b6f2d4810898ac1c428c8b0de42e0
-L
-agency-micro-booking/pom.xml,5/f/5fccf99a58acdc2f9c4e10bc0f86cd09d493b5bd
 M
 agency-micro-booking/mvnw.cmd,c/d/cda385a37dd6ef7064ccada8ad4b5f4f16df689c
 I
@@ -129,3 +125,25 @@ O
 agency-micro-booking/.gitignore,b/c/bc331fdf4f1ca1fd3e6963a84866b544285ddef2
 N
 agency-micro-customer/mvnw.cmd,6/e/6ef6a891c54eb7080bf5bb63b69662b72016c703
+u
+Eagency-cli/src/main/java/com/sergioruy/customer/CustomerResource.java,8/e/8ee220c9306b841f79a0ba5130a17069fddb1895
+m
+=agency-cli/src/main/java/com/sergioruy/customer/Customer.java,5/c/5cae177a639fa72e64dae964e007699885c52017
+t
+Dagency-cli/src/main/java/com/sergioruy/customer/CustomerService.java,d/f/dfb65e7317a31db71c0759b654c5f950a28d6817
+k
+;agency-cli/src/main/java/com/sergioruy/booking/Booking.java,b/8/b8c45ff4c35a5e4c1710e39702df72c5078d7e6c
+u
+Eagency-micro-booking/src/main/java/com/sergioruy/booking/Booking.java,1/2/12aaf60ee9e5d48c740000be236096d609a6cab7
+r
+Bagency-cli/src/main/java/com/sergioruy/booking/BookingService.java,6/5/6523f404ae0953932aaef5141e02e713240d95d7
+}
+Magency-micro-booking/src/main/java/com/sergioruy/booking/BookingResource.java,f/6/f6b489eaf159f9f5d6f911977966434722248c02
+s
+Cagency-cli/src/main/java/com/sergioruy/booking/BookingResource.java,4/a/4abc17a5d2d60eaf492ffa782011f3f585ca1d38
+v
+Fagency-micro-booking/src/main/java/com/sergioruy/GreetingResource.java,1/b/1bda08f44f09b3d158396649c334f7de8a8e32f5
+x
+Hagency-micro-customer/src/main/java/com/sergioruy/custumer/Customer.java,e/8/e8bede5c093eeea2d4dea6aca6141cfc34efaed4
+w
+Gagency-micro-customer/src/main/java/com/sergioruy/GreetingResource.java,3/f/3fa92766c82c16ec94e72181630c1e39fcd9e37d
