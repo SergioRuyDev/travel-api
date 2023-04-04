@@ -115,8 +115,6 @@ y
 Iagency-micro-customer/src/test/java/com/sergioruy/GreetingResourceIT.java,7/6/765f8b08942969d5107da0241b98f7045f85f345
 z
 Jagency-micro-booking/src/test/java/com/sergioruy/GreetingResourceTest.java,d/e/de225a2ea3ed3a82a386da2312c6664589a409a3
-{
-Kagency-micro-customer/src/test/java/com/sergioruy/GreetingResourceTest.java,2/a/2a264f03654c0d564851f3f43043ae0954e28e4a
 N
 agency-micro-booking/README.md,c/9/c9559ebf177b6f2d4810898ac1c428c8b0de42e0
 O
@@ -141,3 +139,21 @@ v
 Fagency-micro-booking/src/main/java/com/sergioruy/GreetingResource.java,1/b/1bda08f44f09b3d158396649c334f7de8a8e32f5
 w
 Gagency-micro-customer/src/main/java/com/sergioruy/GreetingResource.java,3/f/3fa92766c82c16ec94e72181630c1e39fcd9e37d
+}
+Magency-micro-customer/src/main/java/com/sergioruy/custumer/LivenessCheck.java,7/3/732236df49ed3c6a02843761678d1f9d523d8d30
+}
+Magency-micro-customer/src/main/java/com/sergioruy/custumer/ReadnessCheck.java,c/c/ccadd3c4f74595fd229532d30b785be867f3355d
+{
+Kagency-micro-booking/src/main/java/com/sergioruy/booking/LivenessCheck.java,5/5/55bd862e4f215a8d3ef2a5fb200230e7405a144d
+{
+Kagency-micro-booking/src/main/java/com/sergioruy/booking/ReadnessCheck.java,1/0/10678cec1e375e3ff169e1bf470047ccc043108c
+t
+Dagency-cli/src/main/java/com/sergioruy/customer/CustomerService.java,d/f/dfb65e7317a31db71c0759b654c5f950a28d6817
+B
+agency-cli/pom.xml,3/b/3bd8914b1c60d5d2c5f950cb992a282bacf23cd3
+u
+Eagency-cli/src/main/java/com/sergioruy/customer/CustomerResource.java,8/e/8ee220c9306b841f79a0ba5130a17069fddb1895
+L
+agency-micro-booking/pom.xml,5/f/5fccf99a58acdc2f9c4e10bc0f86cd09d493b5bd
+M
+agency-micro-customer/pom.xml,2/9/29cc17a602b5ecf2dce49ac94c1026b39fde7715
